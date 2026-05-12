@@ -1,0 +1,3 @@
+Operación iniciada
+Resultado:5.0
+Operación finalizada
