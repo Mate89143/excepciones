@@ -165,3 +165,11 @@ Posteriormente realiza la división entre los números ingresados.
 Se implementaron dos excepciones específicas:
 - ValueError: cuando el usuario introduce texto u otro valor inválido.
 - ZeroDivisionError: cuando el segundo número es cero.
+
+## Reflexión personal
+
+El manejo de excepciones es una parte fundamental del desarrollo de software porque permite crear aplicaciones más seguras y estables.
+Además, ayudan a mostrar mensajes claros al usuario y facilitan la depuración del código.
+Durante esta actividad comprendí la importancia de validar correctamente los datos ingresados y capturar errores específicos en lugar de usar excepciones genéricas.
+También aprendí cómo utilizar "raise" para generar excepciones personalizadas y mejorar el control de errores dentro de una aplicación.
+Entonces, considero que el manejo adecuado de excepciones mejora considerablemente la calidad del software y permite desarrollar programas más profesionales y confiables.
